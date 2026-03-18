@@ -1,0 +1,45 @@
+﻿Charankamal Brar
+Auburn, WA-98001 | 206-588-3265 | csbrar25@gmail.com | Portfolio | LinkdIn | GitHub
+
+
+Professional Summary
+Detail-oriented technical support and software engineering professional with hands-on experience troubleshooting cloud-based applications, analyzing data, and supporting system operations. Skilled in SQL, debugging workflows, and resolving customer issues in fast-paced environments. Adept at learning complex tools quickly, managing multiple workstreams, and providing clear communication to both technical and non-technical users. Passionate about helping customers succeed and ensuring smooth, accurate, and dependable product performance.
+Education
+University of Washington, Tacoma, Washington                                Graduation: June 2025 
+B.S. Computer Science | GPA: 3.6
+* Relevant Coursework: Operating Systems, Algorithms, Software Development, Client/Server Programming, AI & Knowledge Acquisition, Database Systems Design, Computer Architecture, Game & Simulation Development, Theory of Computation
+* Honors & Scholarships: Dean’s List (Multiple Quarters), APIA Scholar, ACCESS in STEM Scholar 
+Technical Skills
+* Languages: Python, TypeScript, JavaScript, Java, SQL, C
+* Frontend: React, Next.js, HTML, CSS, component-based UI architecture
+* Backend: REST APIs, Node.js, Express, FastAPI (familiar), PostgreSQL
+* Systems & DevOps: Docker, Git/GitHub, CI/CD pipelines, Linux/UNIX
+* Data & Observability: Logging, debugging workflows, data validation, analytics
+* Other: Agile development, system documentation, incident tracking
+Projects
+Stickman - The Savior (JavaScript, HTML5 Canvas) | Live link  | GitHub repository 
+* Developed a 2D action game emphasizing smooth animations and player-responsive controls.
+* Iterated on game feel through testing and feedback to refine user experience and visual design.
+* Applied Agile workflows for team coordination and feature integration.
+Library Website Front-End (React, Next.js, REST API) | GitHub repository 
+* Built reusable frontend components and optimized API integrations for book creation, search, and editing.
+* Maintained backend endpoints with a strong focus on reliability, clean response structures, and error handling.
+* Documented data schemas, endpoints, and integration workflows for team clarity.
+Indie Arcade (Node.js, Express, SQL) | GitHub repository 
+* Engineered core backend features, including authentication, game catalog services, and purchasing logic.
+* Collaborated across the team to fix bugs, improve performance, and maintain scalable API architecture.
+* Applied version control best practices, code reviews, and incremental improvements.
+Work Experience
+Advanced Coder, Outlier AI | Remote (Asynchronous) | Sep 2024 – Present
+* Developed and optimized AI models to enhance accuracy and data processing efficiency, conducting rigorous analysis and evaluations.
+* Crafted detailed prompts for NLP models, significantly improving response quality and consistency in AI-generated outputs.
+Security Specialist, Securitas & Amazon Corporate Security | Seattle, WA | Feb 2022 – Present
+* Operated and troubleshot internal systems and tools, escalating and resolving technical issues.
+* Coordinated with multiple teams, improving communication and system reliability.
+* Documented workflows and system procedures to support repeatability and transparency.
+Crew Trainer, McDonald’s | Covington, WA | Apr 2018 – Jul 2022
+* Trained and mentored new employees, enhancing overall productivity, teamwork, and customer service quality in a high-paced environment.
+Extracurricular Activities 
+Volunteer, Khalsa Gurmat Center | Federal Way, WA | Feb 2018 – Present 
+● Lead weekly Math and Punjabi classes, supporting community learning and cultural enrichment. 
+● Organized annual cultural events, showcasing leadership and organizational skills.

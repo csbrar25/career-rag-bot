@@ -1,0 +1,68 @@
+﻿Job description
+Company and benefits
+Job number
+200029343
+Date posted
+Feb 27, 2026
+Work site
+3 days / week in-office
+Travel
+Less than 25%
+Profession
+Software Engineering
+Discipline
+Software Engineering
+Role type
+Individual Contributor
+Employment type
+Full-Time
+Overview
+We are seeking a Software Engineer to join the Employee Self Service Platform Extensibility team. This team is at the forefront of enabling AI-powered self-service experiences across HR, IT, Facilities, and other enterprise domains. You will drive the development of extensibility features that empower AI agents to deliver seamless, personalized, and actionable employee support through Microsoft Copilot Studio and BizChat.
+What we do
+The Employee Self-Service (ESS) product is an emerging and cornerstone initiative within Microsoft’s Copilot ecosystem, designed to streamline and personalize employee interactions across HR, IT, and facilities domains. ESS empowers customers to quickly create conversational AI agents that integrates with enterprise systems to deliver accurate, context-aware responses and automate routine tasks.
+Our Team
+We are a geo-distributed team of engineers in Redmond WA and India, with deep development partnerships with the Microsoft Copilot Studio team, Microsoft AI team and Bizchat team. We partner closely with a talented and senior set of Product Managers, Technical Program Managers, designers, and researchers. We’re a new and emerging product. Both the competition and technology are evolving rapidly, and we’re looking for individuals that current on AI technologies, thrive in ambiguity, learns quickly, curious, and capable of solving problems across multiple code stacks.
+Microsoft’s mission is to empower every person and every organization on the planet to achieve more. As employees we come together with a growth mindset, innovate to empower others, and collaborate to realize our shared goals. Each day we build on our values of respect, integrity, and accountability to create a culture of inclusion where everyone can thrive at work and beyond.
+
+
+
+
+Responsibilities
+* Coordinates and partners across product teams, develop and support key extensibility features in Microsoft AI products – Microsoft Copilot Studio and Bizchat.
+* Collaborates with internal and customer HR, IT, and Facilities stakeholders to understand business needs and translate them into technical solutions.
+* Designs and implements extensibility features that allow AI agents to interact with enterprise systems (e.g., HRIS, ITSM, Facilities platforms).
+* Learns to review and break down work items into tasks with stakeholder collaboration, provide estimations, and escalate delays, while also supporting feature deployments to customers, considering user and service impacts, and adhering to best deployment practices for safety.
+* Collaborates with key stakeholders to define feature requirements, integrates feedback to enhance design, and establishes feedback loops for continuous improvement based on customer metrics.
+* Evaluates AI technologies (such as LLMs, SLMs, embeddings) and architectures (such as orchestration patterns, RAG, etc) when developing solutions. Specifies or implements AI platform improvements like fine-tuning or training custom ML models.
+* Learns and applies coding standards and best practices through code reviews, developing maintainable and extensible code with guidance. Utilizes debugging tools to proactively and reactively address issues in product features, ensuring code quality and reliability.
+* Ensures compliance with security, privacy, safety, and accessibility standards, leverages developer tools for code creation and debugging, contributes to automation in production and deployment, and proactively seeks knowledge to improve product availability, reliability, efficiency, and performance at scale.
+* Understands and applies Microsoft’s responsible AI practices to ensure systems meet our commitments to our customers.
+
+
+
+
+Qualifications
+Required Qualifications:
+* Bachelor's Degree in Computer Science, or related technical discipline with proven experience coding in languages including, but not limited to, C, C++, C#, Java, JavaScript, or Python
+   * OR equivalent experience. 
+Other Requirements:
+Ability to meet Microsoft, customer and/or government security screening requirements are required for this role. These requirements include but are not limited to the following specialized security screenings:
+
+Microsoft Cloud Background Check: This position will be required to pass the Microsoft Cloud background check upon hire/transfer and every two years thereafter.
+Preferred Qualifications:
+* Bachelor's Degree in Computer Science or related technical field AND 1+ years technical engineering experience with coding in languages including, but not limited to, C, C++, C#, Java, JavaScript, or Python
+   * OR Master's Degree in Computer Science or related technical field with proven experience coding in languages including, but not limited to, C, C++, C#, Java, JavaScript, or Python
+   * OR equivalent experience.
+* Demonstrated interest in/experience with AI/ML technologies.
+#DPG #DPGHiring #EiP #IC2SWE
+ 
+
+
+
+
+Software Engineering IC2 - The typical base pay range for this role across the U.S. is USD $84,200 - $165,200 per year. There is a different range applicable to specific work locations, within the San Francisco Bay area and New York City metropolitan area, and the base pay range for this role in those locations is USD $109,000 - $180,400 per year.
+Certain roles may be eligible for benefits and other compensation. Find additional benefits and pay information here:
+https://careers.microsoft.com/us/en/us-corporate-pay
+
+
+This position will be open for a minimum of 5 days, with applications accepted on an ongoing basis until the position is filled.

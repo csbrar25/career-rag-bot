@@ -1,0 +1,48 @@
+﻿Job Description
+A Day in the Life:
+Come join us in our effort to digitally transform Hertz! Recent innovations such as smartphones, electric vehicles, and ride-hailing apps have created new and exciting opportunities in transportation that Hertz is uniquely positioned to capitalize on. We’re looking for software engineers who will modernize Hertz’s tech stack and, in the process, ship delightful products to meet the ever-increasing demands of our customers.
+What you will do:
+* Design, implement and maintain applications that can be high-volume and low-latency
+* Contribute to all stages of software development lifecycle
+* Analyze user requirements to define business objectives
+* Envisioning system features and functionality
+* Develop and test software
+* Identify and resolve any technical issues arising
+* Create detailed design documentation
+* Propose changes to current infrastructure
+* Develop technical designs for application development
+* Write well designed, testable code
+* Conducting software analysis, programming, testing, and debugging
+* Support continuous improvement, investigating alternatives and technologies, and presenting for architectural review
+What We're Looking For:
+* 0-2 years of experience in the technology industry, and a B.S. in Computer Science or equivalent
+* Proficiency in one or more programming languages and common data structures / algorithms
+* Ability to write production-ready code with moderate supervision
+* Ability to design systems of moderate complexity
+* Ability to conduct code reviews and give sign-off for code merges
+* Strong communication skills. You must be able to work with cross-functional partners to gather requirements and explain outcomes
+* Strong product sense. You must be able to align your work with business objectives and make appropriate tradeoffs
+* Learning mentality. You must be able to pick up new skills as needed and demonstrate a curiosity about new technologies
+We expect the starting salary to be around $100,000 to $125,000 with annual bonus and profit sharing eligibility. The actual salary will be determined based on years of relevant work experience
+What You’ll Get:
+The starting salary for this role is $100,000 annually, commensurate of experience.
+· Bonus: Eligible, Up to 7.5%
+· Reimbursement for Travel Expenses (as applicable, per Company policy guidelines)
+· Paid Time Off / Vacation / Paid observed Holidays (Accruals start at 1.25 Days a Month, 4 Floating Holidays, 9 Paid Observed Holidays) 
+· Benefits: Further program information can be found here at HertzBenefits.com. To include, but not limited to:
+* Up to 40% off any standard Hertz Rental   
+* Paid Time Off
+* Medical, Dental & Vision plan options
+* Retirement programs, including 401(k) employer matching
+* Paid Parental Leave & Adoption Assistance
+* Employee Assistance Program for employees & family
+* Educational Reimbursement & Discounts
+* Voluntary Insurance Programs - Pet, Legal/Identity Theft, Critical Illness
+* Perks & Discounts –Theme Park Tickets, Gym Discounts & more
+About Us
+The Hertz Corporation operates the Hertz, Dollar Car Rental, Thrifty Car Rental brands in approximately 9,700 corporate and franchisee locations throughout North America, Europe, The Caribbean, Latin America, Africa, the Middle East, Asia, Australia and New Zealand. The Hertz Corporation is one of the largest worldwide airport general use vehicle rental companies, and the Hertz brand is one of the most recognized in the world.
+ 
+US EEO STATEMENT 
+At Hertz, we champion and celebrate a culture of diversity and inclusion. We take affirmative steps to promote employment and advancement opportunities. The endless variety of perspectives, experiences, skills and talents that our employees invest in their work every day represent a significant part of our culture – and our success and reputation as a company. 
+Individuals are encouraged to apply for positions because of the characteristics that make them unique. 
+EOE, including disability/veteran
